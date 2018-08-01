@@ -1,1 +1,1 @@
-COMP20007
+spell-corrector
